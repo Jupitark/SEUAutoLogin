@@ -6,7 +6,7 @@
     "dailyReport": {
         "school": {
             "DZ_JSDTCJTW": 36.5,
-            "DZ_SZWZLX": "002",
+            "DZ_SZWZLX": "001",
             "DZ_SZWZLX_DISPLAY": "在校内",
             "LOCATION_PROVINCE_CODE": "",
             "LOCATION_PROVINCE_CODE_DISPLAY": "",
@@ -14,7 +14,7 @@
             "LOCATION_CITY_CODE_DISPLAY": "",
             "LOCATION_COUNTY_CODE": "",
             "LOCATION_COUNTY_CODE_DISPLAY": "",
-            "DZ_SZXQ": "002",
+            "DZ_SZXQ": "001",
             "DZ_SZXQ_DISPLAY": "九龙湖校区"
         },
         "home": {
